@@ -341,7 +341,6 @@ def movediagram(gs, col, bidak):
         bg2 = "#303030"
         fg = "White"
 
-        Window.iconbitmap("Textures/GUI/Folder.ico")
         Window.configure(bg=bg)
         Window.resizable(False, False)
         Window.title(module.PieceNames[bidak])
