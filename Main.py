@@ -13,7 +13,7 @@ import GUI
 from importlib.machinery import SourceFileLoader
 
 ModuleName = GUI.maingui()
-module = SourceFileLoader(ModuleName, "include/" + ModuleName + ".py").load_module()
+module = SourceFileLoader(ModuleName, "Include/" + ModuleName + ".py").load_module()
 
 WindowHeight = (800//module.Dimensi2)*module.Dimensi2
 WindowWidth = (WindowHeight//module.Dimensi2)*module.Dimensi
