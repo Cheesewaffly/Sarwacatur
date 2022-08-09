@@ -2,6 +2,9 @@
 # Sarwacatur
 ### Fuck it. Chess 2 (and more!)
 bloated project, I don't know how to efficiently resize sprites so I made multiple resolutions of them.
+##### Requirements
+* Python 3.8 or above
+* Pygame module for Python
 ##### Features
 - No AI
 - No drag-and-drop to move the pieces
