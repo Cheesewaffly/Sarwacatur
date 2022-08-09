@@ -7,7 +7,7 @@ bloated project, I don't know how to efficiently resize sprites so I made multip
 - No drag-and-drop to move the pieces
 - Left-click to select a piece, then right-click to see its info
 - Once a piece is selected, the squares it can move to will be highlighted
-- double-click to drop a piece in shogi
+- Double-click to drop a piece in shogi
 ##### Implemented Chess Variants
 - [Alice Chess](https://www.chessvariants.com/other.dir/alice.html)
 - [Almost Chess](https://www.chessvariants.com/diffmove.dir/almost.html)
