@@ -3,7 +3,7 @@
 ### Fuck it. Chess 2 (and more!)
 bloated project, I don't know how to efficiently resize sprites so I made multiple resolutions of them.
 ##### Features
-- No AI (yet)
+- No AI
 - No drag-and-drop to move the pieces
 - Left-click to select a piece, then right-click to see its info
 - Once a piece is selected, the squares it can move to will be highlighted
